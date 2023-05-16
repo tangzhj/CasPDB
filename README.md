@@ -2,4 +2,5 @@
 
 ## The new link of CasPDB database  is http://i.uestc.edu.cn/CASPDB/
 
-<img width="180" height="150" src="https://github.com/tangzhj/CasPDB/browser.png">
+<img width="400" height="300" src="https://github.com/tangzhj/CasPDB/browser.png
+">
